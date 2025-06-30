@@ -1,13 +1,11 @@
-📢 Request for THIEYE T5 Pro Action Camera (SERIAL FT5P20XXXXXX)
+📢 Looking for THIEYE T5 Pro (Model FT5P20XXXXXX) Owners
 
 Hi everyone,
 
-I'm currently working on a project that involves the THIEYE T5 Pro action camera, specifically the FT5P20XXXXXX model. 
-Unfortunately, I don't have access to this particular device and can't test or validate my work.
+I'm currently working on a project involving the THIEYE T5 Pro action camera, specifically the FT5P20XXXXXX model.
+However, I do not own this specific camera, so I’m currently unable to test or verify firmware compatibility for it.
 
-If you own this camera and are willing to help with testing or provide feedback, 
-please reach out—your contribution would be greatly appreciated!
+If you own this model and are willing to help with testing or provide feedback,
+please get in touch—your contribution would be greatly appreciated!
 
 Thanks in advance! 🙏
-
-
