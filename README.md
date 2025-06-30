@@ -24,7 +24,7 @@ Please locate the **S/N (Serial Number)** inside the battery compartment of your
 Download the correct firmware version based on your S/N:
 
 - **S/N: FT5P19XXXXXX** → [Download Firmware FT5P19](link-to-ft5p19-firmware)
-- **S/N: FT5P20XXXXXX** → [Download Firmware FT5P20]([link-to-ft5p20-firmware](/tree/main/ThiEYE%20T5%20Pro%20SERIAL%20%20FT5P20XXXXXX))
+- **S/N: FT5P20XXXXXX** → [Download Firmware FT5P20]([link-to-ft5p20-firmware](/ThiEYE%20T5%20Pro%20SERIAL%20%20FT5P20XXXXXX)
 
 ⚠️ Installing the wrong firmware may cause the camera to malfunction. Double-check your serial number before proceeding.
 
