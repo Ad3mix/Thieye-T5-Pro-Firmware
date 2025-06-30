@@ -7,7 +7,7 @@ This repository provides firmware files for the **ThiEYE T5 Pro** action camera,
 - **Model**: ThiEYE T5 Pro  
 - **Chipset**: iCatch V50  
 - **Image Sensor**: Sony IMX078  
-- **Firmware Format**: `.bin`
+- **Firmware Format**: `.BRN`
 
 ## ⚠️ Disclaimer
 
@@ -34,7 +34,7 @@ Download the correct firmware version based on your S/N:
 
 1. Make sure your camera is a **ThiEYE T5 Pro** with a matching S/N.
 2. Format a microSD card to **FAT32**.
-3. Copy the firmware file (`.bin`) to the **root directory** of the SD card.
+3. Copy the firmware file (`.BRN`) + (`KEY.txt`) to the **root directory** of the SD card.
 4. Insert the card into the camera.
 5. Power on the camera. The update will start automatically.
 6. **Do not power off** the camera during the update.
