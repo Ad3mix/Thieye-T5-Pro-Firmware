@@ -1,0 +1,16 @@
+ Info & Request: THIEYE T5 Pro (Model FT5P19XXXXXX)
+
+Hi everyone,
+
+I own a THIEYE T5 Pro, model FT5P19XXXXXX, and I’ve tested the AKASO-V50Elite-20190819-V2-C firmware (from the Akaso V50 Elite).
+✅ It appears to work perfectly on this camera.
+
+⚠️ Warning: Not all Akaso V50 Elite firmware versions are compatible!
+Over time, hardware revisions can change—even for the same camera model.
+👉 Installing an incompatible firmware may damage your device.
+⚙️ Advice: only install firmware if you are sure of what you are doing.
+
+If anyone would like to contribute by sharing other compatible or working firmware, feel free to contact me!
+Any help is appreciated to support other users with the same model.
+
+Thanks!
