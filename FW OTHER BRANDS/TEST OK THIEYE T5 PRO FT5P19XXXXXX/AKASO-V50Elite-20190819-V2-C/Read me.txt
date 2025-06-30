@@ -1,0 +1,23 @@
+190529
+
+Instruction for System Reinstallation.
+
+Tools : Micro SD card reader, PC, Micro SD Card with capacity of over 1G.
+1. Format your TF/Micro SD card first.
+2. Download and unzip the file,then copy "KEY.txt" and "H021.BRN" files into root directory of your TF Card.
+3. Insert your TF card into the DV camera when it's off.
+4. Make sure power in your DV camera is above 50%, or keep it in charge during reinstallation
+5. Press  Power button to enter reinstallation mode, "FW ISP" will show on display until camera turns off when reinstallation completes.
+5. Take out TF card, then turn on camera
+
+
+
+
+
+EIS calibration
+
+1.Copy the eiscal.txt to the micro sd card root directory.
+2.Insert the card into the camera.
+3.pop up the calibration dialog box after the camera is turned on.select "yes".
+4.place the camera flat. Do not touch the camera until the calibration is completed.                                                                                             
+ 
